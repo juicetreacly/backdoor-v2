@@ -1,4 +1,7 @@
 # backdoor-v2
+# Disclaimer
+This is for educational purposes only
+Make changes where necessary
 
 # Description
 Overview: This project contains a script that automates the backup of files from specified user directories (Desktop, Downloads, Pictures, Videos) and uploads them to a Python server.
